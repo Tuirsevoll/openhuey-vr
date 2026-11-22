@@ -1,4 +1,4 @@
-**This repo has moved to https://github.com/Tuirsevoll/openhuey-vr**
+**This repo has moved to https://github.com/Tuirsevoll/OpenHueyVR**
 
 # Haunting Ground VR
 
