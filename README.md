@@ -1,3 +1,5 @@
+**This repo has moved to https://github.com/Tuirsevoll/openhuey-vr**
+
 # Haunting Ground VR
 
 A PC VR mod of **Haunting Ground**, built on top of [OpenHuey](https://github.com/ArnautDaniel/OpenHuey). HUGE thanks and admiration for the original project, without which this mod would not exist. Show your support!
